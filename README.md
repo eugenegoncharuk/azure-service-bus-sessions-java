@@ -1,5 +1,5 @@
 ## Overview
-This sample project demonstrates how to use Service Bus via Spring Boot Starter `azure-servicebus-spring-boot-starter`. 
+This sample project demonstrates how to use Sessions on Service Bus via Spring Boot Starter `azure-servicebus-spring-boot-starter`.
 
 ## Prerequisites
 
